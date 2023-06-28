@@ -1,24 +1,27 @@
-<h1 align='center'>Olá, sou o Victor Hugo Pedro</h1>
-# ⭐ Sobre mim:
-Atualmente estou cursando Ciência da Computação, apaixonado por tecnologia, especialmente em desenvolvimento de software. Iniciando uma formação de Desenvolvimento Full Stack com especialização em Front-End.
+<h2 align='center'>Olá, me chamo Victor Hugo Pedro</h2>
 
-💡 Muito comunicativo e interresado em aprender novas tendências e tecnologias.
-🌱 Estudando e me aprimorando em JavaScript, React.js, Next.js.
+**<h3>⭐ Sobre Mim</h3>**
 
-# 🚀 Tecnologias
+<p>Atualmente estou cursando Ciência da Computação, apaixonado por tecnologia, especialmente em desenvolvimento de software. Iniciando uma formação de Desenvolvimento Full Stack com especialização em Front-End.</p>
+
+<p>💡 Muito comunicativo e interresado em aprender novas tendências e tecnologias.<br>
+🌱 Estudando e me aprimorando em JavaScript, React.js, Next.js.</p>
+
+**<h3>🚀 Tecnologias</h3>**
+
 - **Front-End:**
-[![My Skills](https://skillicons.dev/icons,html,css,js)](https://skillicons.dev)
 
-# 💬 Onde me encontrar
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sass,figma,tailwind)](https://skillicons.dev)
 
- 
+- **Back-End:**
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=devpdro&show_icons=true&theme=dracula) 
-#
-![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+- **Ferramentas e Plataformas:**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ps)](https://skillicons.dev)
+
+**<h3>💬 Onde me encontrar</h3>**
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-pedro-656a67228/)
+
