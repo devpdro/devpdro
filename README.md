@@ -1,5 +1,17 @@
+<h1 align='center'>Olá, sou o Victor Hugo Pedro</h1>
+# ⭐ Sobre mim:
+Atualmente estou cursando Ciência da Computação, apaixonado por tecnologia, especialmente em desenvolvimento de software. Iniciando uma formação de Desenvolvimento Full Stack com especialização em Front-End.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-pedro-656a67228/)
+💡 Muito comunicativo e interresado em aprender novas tendências e tecnologias.
+🌱 Estudando e me aprimorando em JavaScript, React.js, Next.js.
+
+# 🚀 Tecnologias
+- **Front-End:**
+[![My Skills](https://skillicons.dev/icons,html,css,js)](https://skillicons.dev)
+
+# 💬 Onde me encontrar
+
+ 
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=devpdro&show_icons=true&theme=dracula) 
 #
