@@ -11,7 +11,7 @@
 
 - **Front-End:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sass,figma,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sass,figma,styledcomponents,nextjs,tailwind)](https://skillicons.dev)
 
 - **Back-End:**
 
