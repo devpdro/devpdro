@@ -2,24 +2,24 @@
 
 **<h3>⭐ Sobre Mim</h3>**
 
-<p>Atualmente estou cursando Ciência da Computação, apaixonado por tecnologia, especialmente em desenvolvimento de software. Iniciando uma formação de Desenvolvimento Full Stack com especialização em Front-End.</p>
+<p>Sou um desenvolvedor Front-end, cursando Ciência da Computação, atualmente tenho buscado constantemente maneiras de criar experiências de usuário envolventes e elegantes, utilizando as tecnologias mais recentes para dar vida às minhas ideias. Com um foco especial em ReactJS, NextJS, JavaScript, Sass, Typescript e Styled components, tenho trabalhado para aprimorar minhas habilidades e me destacar na criação de interfaces de usuário intuitivas.</p>
 
 <p>💡 Muito comunicativo e interresado em aprender novas tendências e tecnologias.<br>
-🌱 Estudando e me aprimorando em JavaScript, React.js, Next.js.</p>
+🌱 Atualmente estou estudando e me aprimorando em Typescript, React.js e Node.js</p>
 
 **<h3>🚀 Tecnologias</h3>**
 
 - **Front-End:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sass,figma,styledcomponents,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,redux,sass,figma,styledcomponents,nextjs,tailwind)](https://skillicons.dev)
 
 - **Back-End:**
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,express)](https://skillicons.dev)
 
 - **Ferramentas e Plataformas:**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ps,linux)](https://skillicons.dev)
 
 **<h3>💬 Onde me encontrar</h3>**
 
