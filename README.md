@@ -13,13 +13,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,redux,sass,figma,styledcomponents,nextjs,tailwind)](https://skillicons.dev)
 
-- **Back-End:**
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,express)](https://skillicons.dev)
-
 - **Ferramentas e Plataformas:**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ps,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
 **<h3>💬 Onde me encontrar</h3>**
 
