@@ -2,10 +2,10 @@
 
 **<h3>⭐ Sobre Mim</h3>**
 
-<p>Sou um desenvolvedor Front-end, cursando Ciência da Computação, atualmente tenho buscado constantemente maneiras de criar experiências de usuário envolventes e elegantes, utilizando as tecnologias mais recentes para dar vida às minhas ideias. Com um foco especial em ReactJS, NextJS, JavaScript, Sass, Typescript e Styled components, tenho trabalhado para aprimorar minhas habilidades e me destacar na criação de interfaces de usuário intuitivas.</p>
+<p>Sou um desenvolvedor Front-end, cursando Ciência da Computação, atualmente tenho buscado constantemente maneiras de criar experiências de usuário envolventes e elegantes, utilizando as tecnologias mais recentes para dar vida às minhas ideias. Com um foco especial em ReactJS, JavaScript, Typescript e Styled components, tenho trabalhado para aprimorar minhas habilidades e me destacar na criação de interfaces de usuário intuitivas.</p>
 
 <p>💡 Muito comunicativo e interresado em aprender novas tendências e tecnologias.<br>
-🌱 Atualmente estou estudando e me aprimorando em Typescript, React.js e Node.js</p>
+🌱 Atualmente estou estudando e me aprimorando em Typescript, React.js.</p>
 
 **<h3>🚀 Tecnologias</h3>**
 
