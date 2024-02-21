@@ -9,9 +9,13 @@
 
 **<h3>🚀 Tecnologias</h3>**
 
-- **Front-End:**
+- **Front-end:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,sass,figma,styledcomponents,tailwind,nextjs,redux,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,sass,figma,styledcomponents,tailwind,redux)](https://skillicons.dev)
+
+- **Back-end:**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 - **Ferramentas e Plataformas:**
 
