@@ -2,7 +2,7 @@
 
 **<h3>⭐ Sobre Mim</h3>**
 
-<p>Sou um desenvolvedor de software especializando na stack JavaScript, React.js e TypeScript para desenvolver aplicações altamente escaláveis e de alta demanda. Nos últimos anos, tenho mantido um registro de trabalho diário, dedicando-me não apenas a concluir tarefas, mas também a aprimorar minhas habilidades e expandir meu conhecimento em tecnologias, com foco especial em ReactJS, TypeScript, MySQL e C#. Tenho compromisso com o aprendizado contínuo e a colaboração com equipes para alcançar excelentes resultados. Meu principal objetivo é fornecer soluções de aplicações/serviços inovadoras e eficientes com alcance global.</p>
+<p>Sou um desenvolvedor de software especializando na stack JavaScript para desenvolver aplicações altamente escaláveis e de alta demanda. Nos últimos anos, tenho mantido um registro de trabalho diário, dedicando-me não apenas a concluir tarefas, mas também a aprimorar minhas habilidades e expandir meu conhecimento em tecnologias, com foco especial em ReactJS, TypeScript, NodeJS e SQL. Tenho compromisso com o aprendizado contínuo e a colaboração com equipes para alcançar excelentes resultados. Meu principal objetivo é fornecer soluções de aplicações/serviços inovadoras e eficientes com alcance global.</p>
 
 **<h3>🚀 Tecnologias</h3>**
 
