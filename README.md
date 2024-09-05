@@ -20,7 +20,7 @@
 
 - **Ferramentas e Plataformas:**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
 
 **<h3>💬 Onde me encontrar</h3>**
 
