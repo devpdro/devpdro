@@ -1,28 +1,16 @@
-<h2 align='center'>Olá, me chamo Victor Hugo Pedro</h2>
+<div align="left">
+  <a href="https://github.com/devpdro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpdro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpdro&layout=compact&langs_count=7&theme=dark" />
+</div>
 
-**<h3>⭐ Sobre Mim</h3>**
+## 
 
-<p>Sou um desenvolvedor de software especializando na stack JavaScript para desenvolver aplicações altamente escaláveis e de alta demanda. Nos últimos anos, tenho mantido um registro de trabalho diário, dedicando-me não apenas a concluir tarefas, mas também a aprimorar minhas habilidades e expandir meu conhecimento em tecnologias, com foco especial em ReactJS, TypeScript, NodeJS e SQL. Tenho compromisso com o aprendizado contínuo e a colaboração com equipes para alcançar excelentes resultados. Meu principal objetivo é fornecer soluções de aplicações/serviços inovadoras e eficientes com alcance global.</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,sass,figma,styledcomponents,tailwind,redux,nextjs,nodejs,express,mysql,postgresql,linux,docker,vercel,materialui,npm,mongodb,vite,jest,postman,vscode,github,git,babel,aws)](https://skillicons.dev)
 
-**<h3>🚀 Tecnologias</h3>**
+## 
 
-- **Front-end:**
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,sass,figma,styledcomponents,tailwind,redux,nextjs)](https://skillicons.dev)
-
-- **Back-end:**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,postgresql)](https://skillicons.dev)
-
-- **Ferramentas de Teste**
-
-[![My Tools](https://skillicons.dev/icons?i=jest,postman)](https://skillicons.dev)
-
-- **Ferramentas e Plataformas:**
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
-
-**<h3>💬 Onde me encontrar</h3>**
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-pedro)
-
+<div>
+  <a href="https://www.linkedin.com/in/heber-pedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:heberv.pedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
