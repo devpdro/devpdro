@@ -6,7 +6,7 @@
 
 ## 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,sass,figma,styledcomponents,tailwind,redux,nextjs,nodejs,express,mysql,postgresql,linux,docker,vercel,materialui,npm,mongodb,vite,jest,postman,vscode,github,git,babel,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,sass,figma,styledcomponents,tailwind,redux,nextjs,nodejs,express,mysql,postgresql,linux,docker,vercel,materialui,npm,mongodb,babel,vite,jest,postman,vscode,github,git,aws)](https://skillicons.dev)
 
 ## 
 
